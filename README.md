@@ -150,7 +150,7 @@ streamlit_app.py
 ## 👨‍💻 Contributors
 
 * Swastik Singh
-
+* Ridham Sharma
 ---
 
 ## ⭐ If you like this project, give it a star!
